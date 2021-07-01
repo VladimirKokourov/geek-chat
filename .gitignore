@@ -1,0 +1,3 @@
+# Project exclude paths
+/geek-chat-client/target/
+/geek-chat-server/target/
